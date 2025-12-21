@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "451047454006",
+    "project_id": "aptcoder-assignment-app",
+    "storage_bucket": "aptcoder-assignment-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451047454006:android:4ca436f912be2da1a26f97",
+        "android_client_info": {
+          "package_name": "com.appcoder.assignment_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451047454006-7lm84kno1tn7m6h2pe2bj38bo4g045nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKD-GscWpnq3Qeq5m46j9-kiGG23OSDVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451047454006-7lm84kno1tn7m6h2pe2bj38bo4g045nr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "451047454006-3e4tr9f5u2db3lvj9qbagiakembkrqng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aptcoder.assignmentApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451047454006:android:dad0928c6e6ea2aba26f97",
+        "android_client_info": {
+          "package_name": "com.aptcoder.assignment_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451047454006-7lm84kno1tn7m6h2pe2bj38bo4g045nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKD-GscWpnq3Qeq5m46j9-kiGG23OSDVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451047454006-7lm84kno1tn7m6h2pe2bj38bo4g045nr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "451047454006-3e4tr9f5u2db3lvj9qbagiakembkrqng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aptcoder.assignmentApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
