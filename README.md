@@ -1,16 +1,18 @@
-# assignment_app
+# AptCoder Assignment App
+The application is developed using Flutter and integrates Firebase Cloud Firestore along with Google Authentication via Firebase Auth.
 
-A new Flutter project.
+## Modules
+- Admin Portal
+- Student Dashboard
+- Student Profile
 
-## Getting Started
+## Admin Portal
+- Access PIN: 0930
+- Student login is enabled only after the admin creates the student profile.
+- Admin capabilities include: Adding students, Enabling/Disabling student accounts, Viewing and editing student profiles
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Key Highlights
+- Clean architecture following the MVVM design pattern
+- Firebase Authentication and Cloud Firestore
+- Centralized state management using Provider
+- Clean and user-friendly UI/UX
