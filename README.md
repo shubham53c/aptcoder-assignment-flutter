@@ -16,3 +16,6 @@ The application is developed using Flutter and integrates Firebase Cloud Firesto
 - Firebase Authentication and Cloud Firestore
 - Centralized state management using Provider
 - Clean and user-friendly UI/UX
+
+## Screenshots
+[assignment_app_screenshots.pdf](https://github.com/user-attachments/files/24341607/assignment_app_screenshots.pdf)
